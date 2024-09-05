@@ -16,8 +16,8 @@ This script allows you to download images from an Instagram profile using the `i
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/instagram-image-downloader.git
-    cd instagram-image-downloader
+    git clone https://github.com/Oliver0031/Insta_image_downloader.git
+    cd Insta_image_downloader
     ```
 
 2. **Install the required library**:
